@@ -31,5 +31,5 @@ thumbs.db
 
 # --- MODS ---
 # Se for de MANIFEST (Recomendado):
-# /mods/
+/mods/
 # Se você decidir subir os JARs manualmente, comente a linha acima com #.
