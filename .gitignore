@@ -1,0 +1,35 @@
+# --- Minecraft Gerados (Lixo) ---
+/saves/
+/logs/
+/screenshots/
+/resourcepacks/
+/shaderpacks/
+/backups/
+/crash-reports/
+/asm/
+/launcher-cache/
+
+# --- Arquivos de Usuário (Privacidade) ---
+usernamecache.json
+usercache.json
+user-keys.json
+options.txt
+optionsof.txt
+
+# --- Prism / MultiMC (Configurações Locais) ---
+.minecraft/
+/patches/
+instance.cfg
+mmc-pack.json
+_LAUNCHER_LOG.txt
+
+# --- OS e IDE (Sistema) ---
+.DS_Store
+thumbs.db
+.idea/
+.vscode/
+
+# --- MODS ---
+# Se for de MANIFEST (Recomendado):
+# /mods/
+# Se você decidir subir os JARs manualmente, comente a linha acima com #.
