@@ -29,7 +29,5 @@ thumbs.db
 .idea/
 .vscode/
 
-# --- MODS ---
-# Se for de MANIFEST (Recomendado):
-/mods/
-# Se você decidir subir os JARs manualmente, comente a linha acima com #.
+# --- isso por causa do manifest
+/mods/ 
